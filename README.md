@@ -1,1 +1,1 @@
-Radiation level monitoring with notifying via Telegram and MQTT-channel (in this particular case for HA).
+Radiation level monitoring with notification via Telegram and MQTT-channel (in this particular case for HA).
